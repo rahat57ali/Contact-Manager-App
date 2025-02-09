@@ -21,4 +21,8 @@ router.route('/:id').delete(deleteContact);
 
 router.route('/:id').delete(deleteContact);
 
+
+
+router.route('/:id').delete(deleteContact);
+
 module.exports = router;
