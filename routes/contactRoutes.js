@@ -16,8 +16,6 @@ router.route('/:id').get(getContact);
 
 router.route('/:id').put(updateContact);
 
-router.route('/:id').put(updateContact);
-
 router.route('/:id').delete(deleteContact);
 
 
